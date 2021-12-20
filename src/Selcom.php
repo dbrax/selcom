@@ -4,5 +4,8 @@ namespace Epmnzava\Selcom;
 
 class Selcom
 {
-    // Build your next great package.
+
+    public function __construct()
+    {
+    }
 }
